@@ -1,4 +1,4 @@
-This script calculate the probability of a paper being accepted by EMNLP2023 based on [score distribution of ACL2023](https://aclanthology.org/2023.acl-long.0.pdf). Use this script like:
+This script calculatess the probability of a paper being accepted by EMNLP2023 based on [score distribution of ACL2023](https://aclanthology.org/2023.acl-long.0.pdf). Use this script like:
 ```shell
 python accept_prob.py 3 4
 ```
